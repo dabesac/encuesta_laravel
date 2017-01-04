@@ -1,9 +1,9 @@
-# encuesta_laravel
 
 #Encuesta creada en laravel 5
-#jquery 
+encuesta_laravel
+jquery 
 
 modulos
-#ADMINISTRADOR DE USUARIOS
-#ADMINISTRADOR DE ENCUESTA
-#LOGIN
+ADMINISTRADOR DE USUARIOS
+ADMINISTRADOR DE ENCUESTA
+LOGIN
